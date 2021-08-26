@@ -1,0 +1,21 @@
+
+.header-text{
+    text-align: center;
+
+}
+.section{
+    color: white;
+    font-family: Arial;
+}
+.section.colored{
+    background-color: green;
+    font-family: Arial;
+
+}
+
+.sky{
+    color: skyblue;
+}
+.cut{
+    text-decoration: line-through;
+}
