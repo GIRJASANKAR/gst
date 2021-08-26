@@ -1,0 +1,49 @@
+body,*,*::after,*::before{
+    overflow-x: hidden;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.code{
+    background-image: url("code.jpg");
+    min-height: 500px; 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position:relative;
+    color: white;
+}
+
+.center{
+    width: 500px;
+    position: absolute;
+    top:50%;
+    transform: translateX(-50%)  translateY(-50%);
+    left:50%;
+    color:white;
+    display: flex;
+    flex-direction: column;
+            
+} 
+p{
+ font-size:20px;
+}
+.double{
+    margin: auto;
+}
+
+.section2{
+    text-align: center;
+}
+.two{
+    width: 300px;
+}
+.three{
+    width: 300px;
+}
+.center1{
+   position: absolute;
+   // transform: translateX(-50%)  translateY(-50%);
+    left:50%;
+}

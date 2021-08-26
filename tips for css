@@ -31,3 +31,7 @@ Parallax scrolling is a web site trend where the background content (i.e. an ima
     background-color: black;
             
 } 
+
+
+use 
+text-align,right-align,left-align... . to center your text.....
