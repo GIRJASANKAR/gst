@@ -35,3 +35,36 @@ Parallax scrolling is a web site trend where the background content (i.e. an ima
 
 use 
 text-align,right-align,left-align... . to center your text.....
+
+diffent properties for color
+color,rgb(0,0,0);    0-255; 
+hexadecimal -#FF0000  0-F; or
+hexadecimal sort form -#F00; 
+rgba(100,255,100,.5)  .5->50% transparent background or anything
+
+use --->hsl->hue,saturation,lightness
+hue->0-360 -->just find hue and adjust saturation and lightness..
+50%-normal lightness no extraa black or no extraa light
+
+hsla a->transparent.
+
+
+
+// box-model
+ margin,border,padding-->inside the content
+ border:20px solid black
+ border-width:10px 5px 2px 6px
+
+ box-sizing:border-box -->it reduce the box size and add padding and border inside the box
+ to make it that size which u tell to have.
+ *{
+     box-sizing:border-box..do it everytime/
+ }
+
+ivw=1percent
+but percent depend upon screen size while vh and vw does not depend with parent.. only screen.
+
+
+ 1 rem--> root font size --> 16 px that never changes
+ 1 em-> based upon parent if parent has a 30px font size thenit became 
+ 1 em=30px;

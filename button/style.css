@@ -1,0 +1,36 @@
+*{
+    box-sizing:border-box;
+}
+.btn{
+
+    padding:5px 10px 5px 10px;
+    border: 1px solid gray;
+    border-radius: 4px;
+    
+}
+.p{
+    background-color:#8226D9;
+    color:white;
+
+}
+.a{
+    background-color: hsl(200, 100%, 40%);
+    color: white;
+}
+.d{
+    background-color: hsl(0, 60%, 50%);
+    color: white;
+}
+.l{
+    padding:20px 30px ;
+}
+.s{
+
+}
+.pi{
+     border-radius: 30px;
+}
+.c{
+    background: linear-gradient(to right, hsl(271, 70%, 50%), hsl(200, 100%, 40%));
+    color:white;
+}
