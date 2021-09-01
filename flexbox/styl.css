@@ -1,0 +1,30 @@
+
+
+.item{
+   border: 1px solid #333;
+   background-color: #777;
+   width: 75px;
+   color: yellow;
+   margin: 10px;
+}
+ 
+.container{
+    height: 500px;
+    display: flex; 
+    background-color: #CCC;
+    border: 1px solid black;
+    justify-content:space-around;  
+     align-content:center;
+    align-items:center;
+     flex-wrap: wrap;  
+} 
+
+.item-1{
+   min-height: 50px;
+}
+.item-2{
+    min-height: 100px;
+}
+.item-3{
+   min-height: 150px;
+}

@@ -68,3 +68,6 @@ but percent depend upon screen size while vh and vw does not depend with parent.
  1 rem--> root font size --> 16 px that never changes
  1 em-> based upon parent if parent has a 30px font size thenit became 
  1 em=30px;
+
+  flex direction -column, order , flex self and inline flex..
+flex grow , flex shrink, flex basic needs to know..
